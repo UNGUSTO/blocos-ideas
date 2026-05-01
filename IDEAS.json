@@ -1,15 +1,24 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T21:42:12.233812",
-    "total_ideas": 2,
+    "generated_at": "2026-04-30T21:48:53.592707",
+    "total_ideas": 3,
     "categories": {
-      "General": 2
+      "General": 3
     },
     "sources": {
-      "telegram": 2
+      "telegram": 3
     }
   },
   "ideas": [
+    {
+      "id": "38892486",
+      "content": "Nueva idea: Expandir línea de productos offroad con sistema TPR integrado",
+      "categories": [
+        "General"
+      ],
+      "timestamp": "2026-04-30T21:48:53.571398",
+      "source": "telegram"
+    },
     {
       "id": "06a8e6b3",
       "content": "Al loco ese día darle una variante donde le dé una idea ocurrencia sumando un comando o tarea para que haga en cloud code o cree una estrategia en cloud chat web para después crear un un pront para que code trabaje en lo que necesita",

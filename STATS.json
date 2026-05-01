@@ -1,19 +1,19 @@
 {
-  "total_ideas": 2,
+  "total_ideas": 3,
   "by_category": {
-    "General": 2
+    "General": 3
   },
   "by_source": {
-    "telegram": 2
+    "telegram": 3
   },
   "last_idea": {
-    "id": "06a8e6b3",
-    "content": "Al loco ese día darle una variante donde le dé una idea ocurrencia sumando un comando o tarea para que haga en cloud code o cree una estrategia en cloud chat web para después crear un un pront para que code trabaje en lo que necesita",
+    "id": "38892486",
+    "content": "Nueva idea: Expandir línea de productos offroad con sistema TPR integrado",
     "categories": [
       "General"
     ],
-    "timestamp": "2026-04-30T21:35:43.490367",
+    "timestamp": "2026-04-30T21:48:53.571398",
     "source": "telegram"
   },
-  "generated_at": "2026-04-30T21:42:12.235465"
+  "generated_at": "2026-04-30T21:48:53.594012"
 }
