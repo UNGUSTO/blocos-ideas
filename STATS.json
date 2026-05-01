@@ -1,0 +1,19 @@
+{
+  "total_ideas": 1,
+  "by_category": {
+    "General": 1
+  },
+  "by_source": {
+    "telegram": 1
+  },
+  "last_idea": {
+    "id": "cbc8cfe9",
+    "content": "RECYCLAR TETRABRICK COMO BLOQUEADOR RFID , EJEMPLO LLAVE DE AUTO",
+    "categories": [
+      "General"
+    ],
+    "timestamp": "2026-04-30T20:56:01.146960",
+    "source": "telegram"
+  },
+  "generated_at": "2026-04-30T21:20:13.365794"
+}
