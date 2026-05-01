@@ -1,15 +1,24 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T21:48:53.592707",
-    "total_ideas": 3,
+    "generated_at": "2026-04-30T22:27:23.244142",
+    "total_ideas": 4,
     "categories": {
-      "General": 3
+      "General": 4
     },
     "sources": {
-      "telegram": 3
+      "telegram": 4
     }
   },
   "ideas": [
+    {
+      "id": "2641c12b",
+      "content": "\"Shock covers 3D con materiales reciclados para offroad\"",
+      "categories": [
+        "General"
+      ],
+      "timestamp": "2026-04-30T22:27:23.223387",
+      "source": "telegram"
+    },
     {
       "id": "38892486",
       "content": "Nueva idea: Expandir línea de productos offroad con sistema TPR integrado",
