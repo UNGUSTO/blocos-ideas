@@ -1,0 +1,19 @@
+{
+  "total_ideas": 4,
+  "by_category": {
+    "General": 4
+  },
+  "by_source": {
+    "telegram": 4
+  },
+  "last_idea": {
+    "id": "2641c12b",
+    "content": "\"Shock covers 3D con materiales reciclados para offroad\"",
+    "categories": [
+      "General"
+    ],
+    "timestamp": "2026-04-30T22:27:23.223387",
+    "source": "telegram"
+  },
+  "generated_at": "2026-04-30T22:27:23.245446"
+}
