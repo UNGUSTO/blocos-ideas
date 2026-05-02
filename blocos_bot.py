@@ -7,7 +7,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, MessageHandler, CallbackQueryHandler, ContextTypes, filters
 
 logging.basicConfig(level=logging.INFO)
-TELEGRAM_TOKEN = "8314760047:AAEsTZd4qxxfbYp8Q0LtSooBHAzNNJ0iki8"
+TELEGRAM_TOKEN = "8754673744:AAHXJzfTExH1HdvanUZcg3_lN7JGvV3UOyg" 
 DATA_DIR = Path("data")
 GITHUB_REPO = "https://github.com/UNGUSTO/blocos-ideas"
 DATA_DIR.mkdir(exist_ok=True)
